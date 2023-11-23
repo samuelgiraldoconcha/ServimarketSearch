@@ -1,0 +1,23 @@
+body {
+  background-color: #DBF7FF;
+  color: black;
+  display: flex;
+}
+body .SearchSpace {
+  vertical-align: auto;
+  text-align: center;
+  margin: auto;
+  padding-top: 10%;
+}
+body .title {
+  font-family: Pacifico;
+  color: black;
+}
+body .button {
+  text-align: center;
+  font-family: Lato;
+  color: #4F9EAD;
+  margin: 20px;
+}
+
+/*# sourceMappingURL=styles.css.map */

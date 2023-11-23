@@ -1,0 +1,29 @@
+
+$background-color: #DBF7FF;
+$title-font-family: Pacifico;
+$title-font-color: black;
+$normal-font-family: Lato;
+$normal-font-color: black;
+$button-color: #4F9EAD;
+
+body {
+    background-color: $background-color;
+    color: $normal-font-color;
+    display: flex;
+    .SearchSpace{
+        vertical-align: auto;
+        text-align: center;
+        margin:auto;
+        padding-top: 10%;
+    }
+    .title{
+        font-family: $title-font-family;
+        color: $title-font-color;
+    }
+    .button {
+        text-align: center;
+        font-family: $normal-font-family;
+        color: $button-color;
+        margin: 20px;
+    }
+}

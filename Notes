@@ -1,0 +1,10 @@
+Search: https://www.google.com/search
+
+Image: https://www.google.com/search?tbm=isch&q=harvard
+
+https://www.google.com/search?as_q=surgery+simulation&as_epq=reduces+surgery+time&as_oq=surgery+simulation+time+reduce+costs+cost&as_eq=petro
+
+as_q : all these words
+as_epq: this exact word or phrase
+as_oq: any of these words
+as_eq: none of these words
